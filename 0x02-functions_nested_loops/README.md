@@ -1,0 +1,1 @@
+#this file contents c functions and nested loop
