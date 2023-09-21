@@ -17,6 +17,6 @@ char *string_toupper(char *);
 
 char *cap_string(char *);
 
-char *rot13(char *);
+char *rot13(char *s);
 
 #endif /* MAIN_H */
